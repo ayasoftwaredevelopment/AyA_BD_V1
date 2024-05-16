@@ -43,6 +43,7 @@ while($result=mysqli_fetch_array($query))
                                     <div class="card-footer d-flex align-items-center justify-content-between">
                                         <a class="small text-white stretched-link" href="profile.php">Ver Perfil</a>
                                         <a class="small text-white stretched-link" href="registro_motor.html">Registrar motor o parte</a>
+                                        <a class="small text-white stretched-link" href="codigo_motor.html">¿Tiene Producto Activo con Nosotros?</a>
                                         <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                                     </div>
                                 </div>

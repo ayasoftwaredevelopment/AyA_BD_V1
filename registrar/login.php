@@ -65,7 +65,7 @@ echo "<script>alert('Invalid username or password');</script>";
 
 
 <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
-<a class="small" href="password-recovery.php">Olvido clave?</a>
+<a class="small" href="password-recovery2.php">Olvido clave?</a>
 <button class="btn btn-primary" name="login" type="submit">Iniciar</button>
 </div>
 </form>
